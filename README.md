@@ -48,7 +48,7 @@ is declared that is incremented every time the loop is completed, printing the i
                                               The values of multiple variables are passed to the receipt function and a receipt is printed for the user. The rand() function is used to assign the user an order number. 
                                               
 # Contributors:
-Muhammad Qalb-e-Ali
-Musaib Gillani
-Daniyal Shah
-Muhammad Wahaj-ud-din
+1) Muhammad Qalb-e-Ali
+2) Syed Ali Raza
+3) Daniyal Shah
+4) Muhammad Wahaj-ud-din
