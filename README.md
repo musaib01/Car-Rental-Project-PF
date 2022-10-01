@@ -21,15 +21,15 @@ In this program, five header files were used which include:
 •	using namespace std (for using standard function for cin and cout commands)
 
 # Explanation:
-Structures:
+# Structures:
 The following software uses three structures, one for each class of vehicles the company offers. The name, model, and daily rate of each car are the three structure variables that describe the characteristics of the vehicles the company offers.
-Functions:
+# Functions:
 This programme offers a function that prints the final receipt and gives the customer an order number after the procedure is finished.
 1) Value passed by reference:
 The address of the value is used in this function to pass the value of the int days variable.
 2) Use of pointers: 
 In this function, the int total is also computed by multiplying the number of days by the chosen vehicle's daily rate per unit of time. A pointer named "tptr" has been declared. The pointer is given the value of the address of the int total, and using dereference, the value of total is written on the receipt, showing the correct amount.
-Main Function:
+# Main Function:
 In the main body, we have declared multiple variables by using different classes including string, double, int etc. 
 1) Login Process:
                         To rent a car, the user first must make an account in our system. In which they enter their name, CNIC number, age etc. If the user is under 18, our system will print that the user cannot legally drive a car and the program closes. Then the user must enter their phone number and set a password to complete their registration. After the process, the user must login by entering their phone number and password which they had set previously. If there is any difference between the phone number and password they entered previously, the system will declare that either the username or password is incorrect.
@@ -46,21 +46,3 @@ is declared that is incremented every time the loop is completed, printing the i
                                If-else and Nested If-Else statements are used to print the array elements according to the user’s choice. 
 7) Passing values to functions: 
                                               The values of multiple variables are passed to the receipt function and a receipt is printed for the user. The rand() function is used to assign the user an order number. 
-
-
-
-
-
-
-
-
-
-
-
-Output
-
-
-                 
-
-
-
