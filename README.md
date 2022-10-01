@@ -46,3 +46,9 @@ is declared that is incremented every time the loop is completed, printing the i
                                If-else and Nested If-Else statements are used to print the array elements according to the user’s choice. 
 7) Passing values to functions: 
                                               The values of multiple variables are passed to the receipt function and a receipt is printed for the user. The rand() function is used to assign the user an order number. 
+                                              
+# Contributors:
+Muhammad Qalb-e-Ali
+Musaib Gillani
+Daniyal Shah
+Muhammad Wahaj-ud-din
