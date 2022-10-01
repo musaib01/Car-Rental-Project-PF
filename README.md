@@ -55,4 +55,4 @@ is declared that is incremented every time the loop is completed, printing the i
 1) Muhammad Qalb-e-Ali
 2) Syed Ali Raza
 3) Daniyal Shah
-4) Muhammad Wahaj-ud-din
+4) Muhammad Tayyab
