@@ -1,4 +1,4 @@
-# Car-Rental-Project-PF
+# Car-Rental-Service-V1
 This Car Rental Service project was intiated by us as our submission for our Programming Fundamentals Semester Project in the 1st Semester of our degree. This was a basic C++ program which worked as a program which was capable of performing the basic tasks required in a software made for companies which offer car rental services.
 
 # Project Title:
